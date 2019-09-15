@@ -1,0 +1,9 @@
+papa, 
+amro, 
+guest, 
+guest, 
+papa, 
+papa, 0
+guest, 0
+papa, 0
+guest, 0
